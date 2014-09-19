@@ -2,9 +2,8 @@
  * Ship class - polygonal shape of the player's ship
  */
 
-//package asteroids2;
+package asteroid;
 
-import BaseVectorShape;
 import java.awt.Polygon;
 import java.awt.Rectangle;
 

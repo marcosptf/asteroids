@@ -2,7 +2,7 @@
  * base vector shape class for polygonal shapes
  */
 
-//package asteroids2;
+package asteroid;
 
 import java.awt.Shape;
 

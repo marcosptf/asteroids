@@ -8,9 +8,9 @@
  *@copyright:Jonathan S. Harbour.
  */
 
-//package asteroids2;
+package asteroid;
 
-//import Asteroid;
+import asteroid.Asteroid;
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;

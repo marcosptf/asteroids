@@ -2,9 +2,8 @@
  * Bullet class - polygonal shape of a bullet
  */
 
-//package asteroids2;
+package asteroid;
 
-import BaseVectorShape;
 import java.awt.*;
 import java.awt.Rectangle;
 

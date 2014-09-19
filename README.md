@@ -1,4 +1,0 @@
-asteroids
-=========
-
-game asteroids

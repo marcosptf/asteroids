@@ -2,9 +2,9 @@
  * Asteriod class - for polygonal asteroid shapes
  */
 
-//package asteroids2;
+package asteroid;
 
-import BaseVectorShape;
+import asteroid.BaseVectorShape;
 import java.awt.Polygon;
 import java.awt.Rectangle;
 
